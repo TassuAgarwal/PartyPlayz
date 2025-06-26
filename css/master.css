@@ -1,0 +1,41 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project: Dvents
+Version:  1.0
+Assigned to:  WebNik
+Primary use: Dvents
+-------------------------------------------------------------------*/
+
+
+/* FONTS*/
+@import 'https://fonts.googleapis.com/css?family=Lato:100,300,400,400i,700,900|Poppins:300,400,500,600,700|PT+Serif:400,400i,700,700i';
+@import 'font-awesome.min.css';
+@import 'style_1.css';
+@import 'style.css';
+@import 'flaticon.css';
+@import 'simple-line-icons.css';
+
+
+
+/* PLUGIN CSS */
+
+@import 'bootstrap.css';                /* bootstrap */
+@import 'bootstrap-select.css';   /* select customization */
+@import 'header.css';                /* header */
+@import 'yamm.css';                /* header */
+@import 'slider-pro.css';         /* main slider */
+@import 'owl.theme.css';                 /* other sliders */
+@import 'jquery.bxslider.css';                        /* other sliders */
+@import 'magnific-popup.css';            /* modal */
+@import 'animate.css';                        /* animations */
+@import 'parallax.css';                        /* parallax */
+@import 'playful.css';          /* video-player */
+
+
+
+/* MAIN CSS */
+
+@import 'theme.css';
+@import 'color.css';
+@import 'responsive.css';
