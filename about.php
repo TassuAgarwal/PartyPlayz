@@ -12,7 +12,7 @@
   <meta name="HandheldFriendly" content="true">
   <link rel="stylesheet" href="css/master.css">
   <link href="css/switcher.css" rel="stylesheet" id="switcher-css">
-  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="images/favicon.jpg">
 </head>
 
 <body>
@@ -29,7 +29,7 @@
               <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
               <h1 class="b-title-page__title">Who We Are</h1>
               <ol class="breadcrumb">
-                <li><a href="home.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li class="active">About</li>
               </ol>
             </div>
@@ -56,7 +56,7 @@
                 <h3 class="b-advantages__title ui-title-inner">Customized theme setup</h3>
                 <div class="b-advantages__info">We design personalized party themes to match your vision, style, and occasion.
                   From fairytales to superheroes – we bring your dream theme to life.</div>
-                <a href="https://wa.me/9899123506" taget="_blank" class="btn btn-default btn-xs"><i class="icon"></i>Call Now</a>
+                <a href="https://wa.me/9899123506" target="_blank" class="btn btn-default btn-xs"><i class="icon"></i>Call Now</a>
               </div>
             </section>
           </div>
@@ -67,7 +67,7 @@
                 <h3 class="b-advantages__title ui-title-inner">Welcome photo zones</h3>
                 <div class="b-advantages__info">Wow your guests from the entrance with stunning welcome boards and photo setups.
                   Perfect backdrops for selfies, family clicks, and unforgettable memories.</div>
-                <a href="https://wa.me/9899123506" taget="_blank" class="btn btn-default btn-xs"><i class="icon"></i>Call Now</a>
+                <a href="https://wa.me/9899123506" target="_blank" class="btn btn-default btn-xs"><i class="icon"></i>Call Now</a>
               </div>
             </section>
           </div>
@@ -78,7 +78,7 @@
                 <h3 class="b-advantages__title ui-title-inner">Coordinated decorations</h3>
                 <div class="b-advantages__info">Every element of your party flows beautifully with matching colors and decor.
                   From balloons to table settings – we create a cohesive, picture-perfect look.</div>
-                <a href="https://wa.me/9899123506" taget="_blank" class="btn btn-default btn-xs"><i class="icon"></i>Call Now</a>
+                <a href="https://wa.me/9899123506" target="_blank" class="btn btn-default btn-xs"><i class="icon"></i>Call Now</a>
               </div>
             </section>
           </div>
@@ -104,7 +104,7 @@
               <div class="entry-main">
                 <div class="entry-header">
                   <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
-                  <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="services.html">Our Vision</a></h2>
+                  <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Our Vision</a></h2>
                 </div>
                 <div class="entry-content">
                   <p>To become the most trusted and creative party planning brand in India.
@@ -121,7 +121,7 @@
               <div class="entry-main">
                 <div class="entry-header">
                   <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
-                  <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="services.html">Our Approach</a></h2>
+                  <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Our Approach</a></h2>
                 </div>
                 <div class="entry-content">
                   <p>To deliver stress-free, fun-filled, memorable and personalized party experiences.
@@ -138,7 +138,7 @@
               <div class="entry-main">
                 <div class="entry-header">
                   <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
-                  <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="services.html">Our Goals</a></h2>
+                  <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Our Goals</a></h2>
                 </div>
                 <div class="entry-content">
                   <p>To consistently exceed client expectations with unique themes and seamless service.
@@ -219,7 +219,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-4">
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
+              <section class="b-post-sm b-post-sm-1 clearfix">
                 <div class="entry-media"><a href="assets/media/content/posts/322x180/1.jpg" class="js-zoom-images"><img src="images/ser-1.png" alt="Foto" class="img-responsive"></a></div>
                 <div class="entry-main">
                   <div class="entry-header">
@@ -233,7 +233,7 @@
                 </div>
               </section>
 
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
+              <section class="b-post-sm b-post-sm-1 clearfix">
                 <div class="entry-media"><a href="assets/media/content/posts/322x180/2.jpg" class="js-zoom-images"><img src="images/ser-2.png" alt="Foto" class="img-responsive"></a></div>
                 <div class="entry-main">
                   <div class="entry-header">
@@ -249,7 +249,7 @@
             </div>
 
             <div class="col-md-4">
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
+              <section class="b-post-sm b-post-sm-1 clearfix">
                 <div class="entry-media"><a href="assets/media/content/posts/322x180/3.jpg" class="js-zoom-images"><img src="images/ser-3.png" alt="Foto" class="img-responsive"></a></div>
                 <div class="entry-main">
                   <div class="entry-header">
@@ -263,7 +263,7 @@
                 </div>
               </section>
 
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
+              <section class="b-post-sm b-post-sm-1 clearfix">
                 <div class="entry-media"><a href="assets/media/content/posts/322x180/4.jpg" class="js-zoom-images"><img src="images/ser-4.png" alt="Foto" class="img-responsive"></a></div>
                 <div class="entry-main">
                   <div class="entry-header">
@@ -279,7 +279,7 @@
             </div>
 
             <div class="col-md-4">
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
+              <section class="b-post-sm b-post-sm-1 clearfix">
                 <div class="entry-media"><a href="assets/media/content/posts/322x180/1.jpg" class="js-zoom-images"><img src="images/ser-5.png" alt="Foto" class="img-responsive"></a></div>
                 <div class="entry-main">
                   <div class="entry-header">
@@ -293,7 +293,7 @@
                 </div>
               </section>
 
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
+              <section class="b-post-sm b-post-sm-1 clearfix">
                 <div class="entry-media"><a href="assets/media/content/posts/322x180/2.jpg" class="js-zoom-images"><img src="images/ser-6.png" alt="Foto" class="img-responsive"></a></div>
                 <div class="entry-main">
                   <div class="entry-header">
@@ -310,6 +310,8 @@
           </div>
         </div>
       </div>
+
+      <div class="text-center" style="margin-top: 30px;"><a href="theme.php" class="b-isotope__btn btn btn-primary">View All Activities</a></div>
     </section>
 
     <section class="b-advertisement area-bg area-bg_dark area-bg_op_70 parallax">

@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <div class="text-center"><a href="home.php" class="footer__logo"><img src="images/newlogo-white.png" height="100" width="300" alt="Logo"
+                    <div class="text-center"><a href="index.php" class="footer__logo"><img src="images/newlogo-white.png" height="100" width="300" alt="Logo"
                                 class="img-responsive"></a></div>
                 </div>
             </div>

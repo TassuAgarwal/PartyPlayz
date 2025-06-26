@@ -12,7 +12,7 @@
     <meta name="HandheldFriendly" content="true">
     <link rel="stylesheet" href="css/master.css">
     <link href="css/switcher.css" rel="stylesheet" id="switcher-css">
-    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="images/favicon.jpg">
 </head>
 
 <body>
@@ -29,8 +29,8 @@
                             <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
                             <h1 class="b-title-page__title">Party Themes</h1>
                             <ol class="breadcrumb">
-                                <li><a href="home.html">Home</a></li>
-                                <li class="active">Theme that we offer</li>
+                                <li><a href="index.php">Home</a></li>
+                                <li class="active">Themes that we offer</li>
                             </ol>
                         </div>
                     </div>
@@ -52,11 +52,11 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <section class="b-post-sm b-post-sm-1 b-post-sm-1_align_center clearfix">
-                            <div class="entry-media"><a href="assets/media/content/posts/322x180/5.jpg" class="js-zoom-images"><img src="images/theme-1.png" alt="Foto" class="img-responsive"></a></div>
+                            <div class="entry-media"><img src="images/theme-1.png" alt="Foto" class="img-responsive"></div>
                             <div class="entry-main">
                                 <div class="entry-header">
                                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
-                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="services.html">Girl's Birthday Theme</a></h2>
+                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Girl's Birthday Theme</a></h2>
                                 </div>
                                 <div class="entry-content">
                                     <p>We create magical birthday experiences for girls with enchanting themes like Unicorn, Barbie, Frozen, Princess Castle, and Candyland. From pastel balloons and custom photo booths to character cutouts and shimmers, every detail is styled to bring her fairytale to life.</p>
@@ -67,11 +67,11 @@
                     </div>
                     <div class="col-sm-4">
                         <section class="b-post-sm b-post-sm-1 b-post-sm-1_align_center clearfix">
-                            <div class="entry-media"><a href="assets/media/content/posts/322x180/6.jpg" class="js-zoom-images"><img src="images/theme-2.png" alt="Foto" class="img-responsive"></a></div>
+                            <div class="entry-media"><img src="images/theme-2.png" alt="Foto" class="img-responsive"></div>
                             <div class="entry-main">
                                 <div class="entry-header">
                                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
-                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="services.html">Boy's Birthday Theme</a></h2>
+                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Boy's Birthday Theme</a></h2>
                                 </div>
                                 <div class="entry-content">
                                     <p>Adventure-filled birthday themes for boys like Superheroes, Jungle Safari, Dinosaur World, Car Racing, and Space Galaxy are our specialty. We decorate with bold colors, action props, and fun activity zones to make your little champ feel like the star of his big day.</p>
@@ -82,11 +82,11 @@
                     </div>
                     <div class="col-sm-4">
                         <section class="b-post-sm b-post-sm-1 b-post-sm-1_align_center clearfix">
-                            <div class="entry-media"><a href="assets/media/content/posts/322x180/6.jpg" class="js-zoom-images"><img src="images/theme-3.png" alt="Foto" class="img-responsive"></a></div>
+                            <div class="entry-media"><img src="images/theme-3.png" alt="Foto" class="img-responsive"></div>
                             <div class="entry-main">
                                 <div class="entry-header">
                                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
-                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="services.html">Kids Event Theme</a></h2>
+                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Kids Event Theme</a></h2>
                                 </div>
                                 <div class="entry-content">
                                     <p>For school events, playdates, or festivals – we offer exciting themes that keep kids thrilled and entertained. Think colorful carnival setups, rainbow picnics, jungle jungles, or circus extravaganzas with balloons, games, and kid-friendly zones designed for nonstop fun.</p>
@@ -97,11 +97,11 @@
                     </div>
                     <div class="col-sm-4">
                         <section class="b-post-sm b-post-sm-1 b-post-sm-1_align_center clearfix">
-                            <div class="entry-media"><a href="assets/media/content/posts/322x180/7.jpg" class="js-zoom-images"><img src="images/theme-4.png" alt="Foto" class="img-responsive"></a></div>
+                            <div class="entry-media"><img src="images/theme-4.png" alt="Foto" class="img-responsive"></div>
                             <div class="entry-main">
                                 <div class="entry-header">
                                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
-                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="services.html">Wedding Anniversary</a></h2>
+                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Wedding Anniversary</a></h2>
                                 </div>
                                 <div class="entry-content">
                                     <p>Celebrate love and milestones with elegant, romantic themes like Red & Gold, Candlelight Evenings, Royal Decor, or Floral Garden Setups. From table styling to ambient lighting and couple photo corners, we design a celebration that’s heartfelt and picture-perfect.</p>
@@ -113,11 +113,11 @@
 
                     <div class="col-sm-4">
                         <section class="b-post-sm b-post-sm-1 b-post-sm-1_align_center clearfix">
-                            <div class="entry-media"><a href="assets/media/content/posts/322x180/7.jpg" class="js-zoom-images"><img src="images/theme-5.png" alt="Foto" class="img-responsive"></a></div>
+                            <div class="entry-media"><img src="images/theme-5.png" alt="Foto" class="img-responsive"></div>
                             <div class="entry-main">
                                 <div class="entry-header">
                                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
-                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="services.html">Family Function </a></h2>
+                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Family Function </a></h2>
                                 </div>
                                 <div class="entry-content">
                                     <p>Whether it’s a festive puja, engagement, or housewarming, we offer beautiful, culturally rooted or modern themes. Expect coordinated décor with floral rangolis, thematic backdrops, soft lighting, and seating arrangements perfect for comfort and connection.</p>
@@ -129,11 +129,11 @@
 
                     <div class="col-sm-4">
                         <section class="b-post-sm b-post-sm-1 b-post-sm-1_align_center clearfix">
-                            <div class="entry-media"><a href="assets/media/content/posts/322x180/7.jpg" class="js-zoom-images"><img src="images/theme-6.png" alt="Foto" class="img-responsive"></a></div>
+                            <div class="entry-media"><img src="images/theme-6.png" alt="Foto" class="img-responsive"></div>
                             <div class="entry-main">
                                 <div class="entry-header">
                                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
-                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="services.html">Other Parties</a></h2>
+                                    <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Other Parties</a></h2>
                                 </div>
                                 <div class="entry-content">
                                     <p>Be it baby showers, retirement, New Year’s Eve, or success celebrations – we provide personalized decoration themes that suit your mood and occasion. From elegant to playful, our custom setups are designed to leave a lasting impression on your guests.</p>

@@ -12,7 +12,7 @@
   <meta name="HandheldFriendly" content="true">
   <link rel="stylesheet" href="css/master.css">
   <link href="css/switcher.css" rel="stylesheet" id="switcher-css">
-  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="images/favicon.jpg">
 </head>
 
 <body>
@@ -33,8 +33,8 @@
                 </div>
                 <h2 data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="800" data-show-delay="400" data-hide-delay="400" class="main-slider__title sp-layer">Best Party Organizers in NOIDA</h2>
                 <div data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="1200" data-show-delay="2000" data-hide-delay="400" class="sp-layer">
-                  <a href="https://wa.me/9899123506" class="main-slider__btn btn btn-primary">ask for a quote</a>
-                  <a href="services.php" class="main-slider__btn btn btn-default">read more</a>
+                  <a href="https://wa.me/9899123506" target="_blank" class="main-slider__btn btn btn-primary">ask for a quote</a>
+                  <a href="service.php" class="main-slider__btn btn btn-default">read more</a>
                 </div>
               </div>
             </div>
@@ -50,8 +50,8 @@
                 </div>
                 <h2 data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="800" data-show-delay="400" data-hide-delay="400" class="main-slider__title sp-layer">celebrate your events<br>that lasts longer</h2>
                 <div data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="1200" data-show-delay="2000" data-hide-delay="400" class="sp-layer">
-                  <a href="https://wa.me/9899123506" class="main-slider__btn btn btn-primary">ask for a quote</a>
-                  <a href="services.php" class="main-slider__btn btn btn-default">read more</a>
+                  <a href="https://wa.me/9899123506" target="_blank" class="main-slider__btn btn btn-primary">ask for a quote</a>
+                  <a href="service.php" class="main-slider__btn btn btn-default">read more</a>
                 </div>
               </div>
             </div>
@@ -67,8 +67,8 @@
                 </div>
                 <h2 data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="800" data-show-delay="400" data-hide-delay="400" class="main-slider__title sp-layer">From Balloons to Beats<br>We plan it All !</h2>
                 <div data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="1200" data-show-delay="2000" data-hide-delay="400" class="sp-layer">
-                  <a href="https://wa.me/9899123506" class="main-slider__btn btn btn-primary">ask for a quote</a>
-                  <a href="services.php" class="main-slider__btn btn btn-default">read more</a>
+                  <a href="https://wa.me/9899123506" target="_blank" class="main-slider__btn btn btn-primary">ask for a quote</a>
+                  <a href="service.php" class="main-slider__btn btn btn-default">read more</a>
                 </div>
               </div>
             </div>
@@ -135,40 +135,46 @@
             <div data-min480="1" data-min768="2" data-min992="3" data-min1200="3" data-pagination="false" data-navigation="false" data-auto-play="4000"
               data-stop-on-hover="true" class="owl-carousel owl-theme enable-owl-carousel">
               <section class="b-post-sm b-post-sm-2 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/380x290/1.jpg" class="js-zoom-images"><img src="images/ser1.png" alt="Foto" class="img-responsive"></a></div>
+                <div class="entry-media">
+                  <img src="images/ser1.png" alt="Foto" class="img-responsive">
+                </div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
                     <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Theme Party Planning</a></h2>
                   </div>
                   <div class="entry-footer">
-                    <div class="entry-meta"><span class="entry-meta__item"><a href="theme.php" class="entry-meta__link">Transform your party with customized themes: cartoon, jungle, unicorn, superhero, princess, Bollywood, retro, and many more.</a></span></div>
+                    <div class="entry-meta"><span class="entry-meta__item"><a href="themeParty.php" class="entry-meta__link">Transform your party with customized themes: cartoon, jungle, unicorn, superhero, princess, Bollywood, retro, and many more.</a></span></div>
                   </div>
                 </div>
               </section>
 
               <section class="b-post-sm b-post-sm-2 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/380x290/2.jpg" class="js-zoom-images"><img src="images/ser2.png" alt="Foto" class="img-responsive"></a></div>
+                <div class="entry-media">
+                  <img src="images/ser2.png" alt="Foto" class="img-responsive">
+                </div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
                     <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Birthday Party Packages</a></h2>
                   </div>
                   <div class="entry-footer">
-                    <div class="entry-meta"><span class="entry-meta__item"><a href="birthday.php" class="entry-meta__link">From 1st birthdays to milestone adult celebrations – we design joyful experiences for all age groups.</a></span></div>
+                    <div class="entry-meta"><span class="entry-meta__item"><a href="birthdayParty.php" class="entry-meta__link">From 1st birthdays to milestone adult celebrations – we design joyful experiences for all age groups.</a></span></div>
                   </div>
                 </div>
               </section>
 
               <section class="b-post-sm b-post-sm-2 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/380x290/3.jpg" class="js-zoom-images"><img src="images/ser3.png" alt="Foto" class="img-responsive"></a></div>
+                <div class="entry-media">
+                  <img src="images/ser3.png" alt="Foto" class="img-responsive">
+                </div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
                     <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Entertainment Services</a></h2>
                   </div>
                   <div class="entry-footer">
-                    <div class="entry-meta"><span class="entry-meta__item"><a href="entertainment.php" class="entry-meta__link">Magicians , Tattoo & Face Painting ,
+                    <div class="entry-meta"><span class="entry-meta__item"><a href="Entertainment.php" class="entry-meta__link">Magicians , Tattoo & Face Painting ,
                           Puppet Shows , Balloon Artists , Live Cartoon Characters , Game Coordinators</a></span></div>
                   </div>
                 </div>
@@ -178,41 +184,47 @@
             <div data-min480="1" data-min768="2" data-min992="3" data-min1200="3" data-pagination="false" data-navigation="false" data-auto-play="4000"
               data-stop-on-hover="true" class="owl-carousel owl-theme enable-owl-carousel">
               <section class="b-post-sm b-post-sm-2 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/380x290/1.jpg" class="js-zoom-images"><img src="images/ser4.png" alt="Foto" class="img-responsive"></a></div>
+                <div class="entry-media">
+                  <img src="images/ser4.png" alt="Foto" class="img-responsive">
+                </div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
                     <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Decor & Setup</a></h2>
                   </div>
                   <div class="entry-footer">
-                    <div class="entry-meta"><span class="entry-meta__item"><a href="blog-post.html" class="entry-meta__link">Elegant or funky, simple or grand – we design your space to match your vision. Balloon Decor , Floral Backdrop, Lights , etc.</a></span></div>
+                    <div class="entry-meta"><span class="entry-meta__item"><a href="Decor.php" class="entry-meta__link">Elegant or funky, simple or grand – we design your space to match your vision. Balloon Decor , Floral Backdrop, Lights , etc.</a></span></div>
                   </div>
                 </div>
               </section>
 
               <section class="b-post-sm b-post-sm-2 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/380x290/2.jpg" class="js-zoom-images"><img src="images/ser5.png" alt="Foto" class="img-responsive"></a></div>
+                <div class="entry-media">
+                  <img src="images/ser5.png" alt="Foto" class="img-responsive">
+                </div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
                     <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Music & Hosting</a></h2>
                   </div>
                   <div class="entry-footer">
-                    <div class="entry-meta"><span class="entry-meta__item"><a href="blog-post.html" class="entry-meta__link">Let the music flow and the fun roll!
+                    <div class="entry-meta"><span class="entry-meta__item"><a href="Hosting.php" class="entry-meta__link">Let the music flow and the fun roll!
                           DJs & Sound Systems , Anchors/MCs , Party Games & Crowd Engagement</a></span></div>
                   </div>
                 </div>
               </section>
 
               <section class="b-post-sm b-post-sm-2 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/380x290/3.jpg" class="js-zoom-images"><img src="images/ser6.png" alt="Foto" class="img-responsive"></a></div>
+                <div class="entry-media">
+                  <img src="images/ser6.png" alt="Foto" class="img-responsive">
+                </div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
                     <h2 class="entry-title entry-title_spacing ui-title-inner"><a href="service.php">Catering & Snacks</a></h2>
                   </div>
                   <div class="entry-footer">
-                    <div class="entry-meta"><span class="entry-meta__item"><a href="blog-post.html" class="entry-meta__link">Tasty bites, kids-friendly options, live food counters, mocktail bars, and more. We offer all kind of cuisines.</a></span></div>
+                    <div class="entry-meta"><span class="entry-meta__item"><a href="Catering.php" class="entry-meta__link">Tasty bites, kids-friendly options, live food counters, mocktail bars, and more. We offer all kind of cuisines.</a></span></div>
                   </div>
                 </div>
               </section>
@@ -220,6 +232,7 @@
           </div>
         </div>
       </div>
+      <div class="text-center" style="margin-top: 30px;"><a href="service.php" class="b-isotope__btn btn btn-primary">View All Services</a></div>
     </section>
 
     <section class="section-default">
@@ -240,8 +253,8 @@
         <div class="container">
           <div class="row">
             <div class="col-md-4">
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/322x180/1.jpg" class="js-zoom-images"><img src="images/ser-1.png" alt="Foto" class="img-responsive"></a></div>
+              <section class="b-post-sm b-post-sm-1 clearfix">
+                <div class="entry-media"><img src="images/ser-1.png" alt="Foto" class="img-responsive"></div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
@@ -254,8 +267,8 @@
                 </div>
               </section>
 
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/322x180/2.jpg" class="js-zoom-images"><img src="images/ser-2.png" alt="Foto" class="img-responsive"></a></div>
+              <section class="b-post-sm b-post-sm-1 clearfix">
+                <div class="entry-media"><img src="images/ser-2.png" alt="Foto" class="img-responsive"></div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
@@ -270,8 +283,8 @@
             </div>
 
             <div class="col-md-4">
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/322x180/3.jpg" class="js-zoom-images"><img src="images/ser-3.png" alt="Foto" class="img-responsive"></a></div>
+              <section class="b-post-sm b-post-sm-1 clearfix">
+                <div class="entry-media"><img src="images/ser-3.png" alt="Foto" class="img-responsive"></div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
@@ -284,8 +297,8 @@
                 </div>
               </section>
 
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/322x180/4.jpg" class="js-zoom-images"><img src="images/ser-4.png" alt="Foto" class="img-responsive"></a></div>
+              <section class="b-post-sm b-post-sm-1 clearfix">
+                <div class="entry-media"><img src="images/ser-4.png" alt="Foto" class="img-responsive"></div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
@@ -300,8 +313,8 @@
             </div>
 
             <div class="col-md-4">
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/322x180/1.jpg" class="js-zoom-images"><img src="images/ser-5.png" alt="Foto" class="img-responsive"></a></div>
+              <section class="b-post-sm b-post-sm-1 clearfix">
+                <div class="entry-media"><img src="images/ser-5.png" alt="Foto" class="img-responsive"></div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
@@ -314,8 +327,8 @@
                 </div>
               </section>
 
-              <section class="b-post-sm b-post-sm-1 b-post_mr-rg_38 clearfix">
-                <div class="entry-media"><a href="assets/media/content/posts/322x180/2.jpg" class="js-zoom-images"><img src="images/ser-6.png" alt="Foto" class="img-responsive"></a></div>
+              <section class="b-post-sm b-post-sm-1 clearfix">
+                <div class="entry-media"><img src="images/ser-6.png" alt="Foto" class="img-responsive"></div>
                 <div class="entry-main">
                   <div class="entry-header">
                     <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
@@ -330,6 +343,7 @@
             </div>
           </div>
         </div>
+              <div class="text-center" style="margin-top: 30px;"><a href="funAct.php" class="b-isotope__btn btn btn-primary">View All Activities</a></div>
       </div>
     </section>
 
@@ -363,34 +377,34 @@
                 <section data-stellar-background-ratio="0.4" class="b-info section-texture section-radius stellar section-texture_pink section-radius">
                   <h2 class="b-info__title">Girls’ Birthday Themes</h2>
                   <div class="b-info__text">From fairy tales to fashion, we create dreamy birthday themes your little princess will adore!
-                    Popular themes: Unicorn, Frozen, Barbie, Mermaid, Butterfly Garden, Candyland.</div><a href="home.html" class="b-info__btn btn btn-default btn-sm btn-effect">contact us now</a>
+                    Popular themes: Unicorn, Frozen, Barbie, Mermaid, Butterfly Garden, Candyland.</div><a href="theme.php" class="b-info__btn btn btn-default btn-sm btn-effect">contact us now</a>
                 </section>
               </div>
               <div class="col-md-6 margin">
                 <section data-stellar-background-ratio="0.4" class="b-info section-texture section-radius stellar b-info_right section-texture_blue section-radius">
                   <h2 class="b-info__title">Boys’ Birthday Themes</h2>
                   <div class="b-info__text">Adventure, action, and fun – we bring your boy’s favorite world to life!
-                    Popular themes: Superheroes, Jungle Safari, Car Racing, Dinosaur Land, Spiderman, Avengers.</div><a href="home.html" class="b-info__btn btn btn-default btn-sm btn-effect">join our team</a>
+                    Popular themes: Superheroes, Jungle Safari, Car Racing, Dinosaur Land, Spiderman, Avengers.</div><a href="theme.php" class="b-info__btn btn btn-default btn-sm btn-effect">join our team</a>
                 </section>
               </div>
               <div class="col-md-6 margin">
                 <section data-stellar-background-ratio="0.4" class="b-info section-texture section-radius stellar section-texture_golden section-radius">
                   <h2 class="b-info__title">Wedding Anniversary Themes</h2>
                   <div class="b-info__text">Celebrate your love story with elegant and romantic settings.
-                    Popular themes: Royal Night, Red & Gold Affair, Bollywood Glam, Rustic Garden, Candlelight Dinner Setup.</div><a href="home.html" class="b-info__btn btn btn-default btn-sm btn-effect">contact us now</a>
+                    Popular themes: Royal Night, Red & Gold Affair, Bollywood Glam, Rustic Garden, Candlelight Dinner Setup.</div><a href="theme.php" class="b-info__btn btn btn-default btn-sm btn-effect">contact us now</a>
                 </section>
               </div>
               <div class="col-md-6 margin">
                 <section data-stellar-background-ratio="0.4" class="b-info section-texture section-radius stellar b-info_right section-texture_silver section-radius">
                   <h2 class="b-info__title">Family Function Themes</h2>
                   <div class="b-info__text">From casual gatherings to festive family events – we plan it all with style and joy.
-                    Popular themes: Traditional Indian, Floral Festive, Retro Bollywood, Outdoor Picnic Celebrations.</div><a href="home.html" class="b-info__btn btn btn-default btn-sm btn-effect">join our team</a>
+                    Popular themes: Traditional Indian, Floral Festive, Retro Bollywood, Outdoor Picnic Celebrations.</div><a href="theme.php" class="b-info__btn btn btn-default btn-sm btn-effect">join our team</a>
                 </section>
               </div>
             </div>
           </div>
         </div>
-
+      <div class="text-center" style="margin-top: 30px;"><a href="theme.php" class="b-isotope__btn btn btn-primary">Read More</a></div>
       </div>
     </section>
 
@@ -417,7 +431,7 @@
           <li class="b-isotope-grid__item grid-item corporate birthday"><a href="assets/media/content/gallery/480x290/8.jpg" class="b-isotope-grid__inner js-zoom-gallery__item"><img src="images/8.jpg" alt="foto"><span class="b-isotope-grid__wrap-info"><span class="b-isotope-grid__info"><span class="b-isotope-grid__title">Kids at Party</span><span class="b-isotope-grid__categorie">Birthday Parties</span></span><i class="icon icon-magnifier-add text-primary"></i></span></a></li>
         </ul>
       </div>
-      <div class="text-center"><span class="b-isotope__info">See Our Full Gallery of Events!</span><a href="home.html" class="b-isotope__btn btn btn-primary">visit full gallery</a></div>
+      <div class="text-center"><span class="b-isotope__info">See Our Full Gallery of Events!</span><a href="gallery.php" class="b-isotope__btn btn btn-primary">visit full gallery</a></div>
     </section>
 
     <div class="section-default area-bg area-bg_type-1 area-bg_dark parallax">

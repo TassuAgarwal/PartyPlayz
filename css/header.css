@@ -207,7 +207,7 @@ body:not(.header-demo) .navbar-scrolling .top-bar {
 
 .header-normal-width .container-boxed-width {
   width: 100%;
-  padding: 0;
+  padding: 10px;
 }
 
 /*FULL WIDTH */
@@ -330,7 +330,7 @@ body:not(.header-demo) .navbar-scrolling .top-bar {
   font-size: 16px;
   display: inline-block;
   vertical-align: sub;
-  margin-right: 10px;
+  margin-right: 5px;
   line-height: 1;
 }
 .header-topbarbox-1-left .header-topbarbox-1,
@@ -944,6 +944,7 @@ html [data-off-canvas*="bottom"] ul {
 }
 html [data-off-canvas*="open"] {
   display: block;
+  padding: 20px;
   margin-left: -255px;
   transition-duration: 300ms;
   transform: translate(255px, 0px);
@@ -992,6 +993,7 @@ html [data-off-canvas*="open"] {
   z-index: 777;
 }
 [data-off-canvas] ul {
+  padding-top: 20px;
   margin: 0 !important;
 }
 [data-off-canvas] li {
@@ -1108,17 +1110,20 @@ html [data-off-canvas*="open"] {
 
 /*RESPONSIVE STYLES */
 
+.newlogo {
+  max-height: 110px;
+  padding: 20px;
+}
+
 @media (min-width: 768px) and (max-width: 1000px) {
+  .newlogo {
+    max-height: 90px;
+    padding: 15px;
+  }
   .center-logo {
     padding-top: 20px;
   }
-  .top-bar .header-topbarbox-1,
-  .top-bar .header-topbarbox-2,
-  .top-bar .header-topbarbox-3,
-  .top-bar .header-topbarbox-4 {
-    float: none !important;
-    text-align: center;
-  }
+
   html .menu-mobile-button {
     top: 26px;
   }
@@ -1144,13 +1149,7 @@ html [data-off-canvas*="open"] {
   .center-logo {
     padding-top: 20px;
   }
-  .top-bar .header-topbarbox-1,
-  .top-bar .header-topbarbox-2,
-  .top-bar .header-topbarbox-3,
-  .top-bar .header-topbarbox-4 {
-    float: none !important;
-    text-align: center;
-  }
+
   html .menu-mobile-button {
     top: 46px;
   }
@@ -1174,6 +1173,38 @@ html [data-off-canvas*="open"] {
     display: none !important;
   }
 }
+
+@media (max-width: 740px) {
+  .header-topbarbox-1-left .header-topbarbox-1 {
+    text-align: center;
+  }
+
+  .top-bar .header-topbarbox-2 {
+    display: none;
+  }
+}
+
+@media (max-width: 426px) {
+  .newlogo {
+    max-height: 90px;
+    padding: 15px;
+  }
+
+  .top-bar-contact__item {
+    margin-right: 30px;
+  }
+
+  #loc {
+    display: none;
+  }
+}
+
+@media (max-width: 321px) {
+  .top-bar-contact__item {
+    margin-right: 9px;
+  }
+}
+
 .side-logo {
   display: inline-block;
   width: 100%;
