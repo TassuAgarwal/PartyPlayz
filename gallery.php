@@ -89,12 +89,12 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <section class="b-team">
-                            <div class="b-team__media"><img src="images/gallery/8.jpeg" alt="Foto" class="img-responsive"></div>
+                            <div class="b-team__media"><img src="images/gallery/8.png" alt="Foto" class="img-responsive"></div>
                         </section>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <section class="b-team">
-                            <div class="b-team__media"><img src="images/gallery/9.jpeg" alt="Foto" class="img-responsive"></div>
+                            <div class="b-team__media"><img src="images/gallery/9.png" alt="Foto" class="img-responsive"></div>
                         </section>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
@@ -114,22 +114,22 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <section class="b-team">
-                            <div class="b-team__media"><img src="images/gallery/13.jpeg" alt="Foto" class="img-responsive"></div>
+                            <div class="b-team__media"><img src="images/gallery/13.png" alt="Foto" class="img-responsive"></div>
                         </section>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <section class="b-team">
-                            <div class="b-team__media"><img src="images/gallery/14.jpeg" alt="Foto" class="img-responsive"></div>
+                            <div class="b-team__media"><img src="images/gallery/14.png" alt="Foto" class="img-responsive"></div>
                         </section>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <section class="b-team">
-                            <div class="b-team__media"><img src="images/gallery/15.jpeg" alt="Foto" class="img-responsive"></div>
+                            <div class="b-team__media"><img src="images/gallery/15.png" alt="Foto" class="img-responsive"></div>
                         </section>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <section class="b-team">
-                            <div class="b-team__media"><img src="images/gallery/16.jpeg" alt="Foto" class="img-responsive"></div>
+                            <div class="b-team__media"><img src="images/gallery/16.png" alt="Foto" class="img-responsive"></div>
                         </section>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
@@ -190,16 +190,6 @@
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <section class="b-team">
                             <div class="b-team__media"><img src="images/gallery/28.jpeg" alt="Foto" class="img-responsive"></div>
-                        </section>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <section class="b-team">
-                            <div class="b-team__media"><img src="images/gallery/29.jpeg" alt="Foto" class="img-responsive"></div>
-                        </section>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <section class="b-team">
-                            <div class="b-team__media"><img src="images/gallery/30.jpeg" alt="Foto" class="img-responsive"></div>
                         </section>
                     </div>
                 </div>
