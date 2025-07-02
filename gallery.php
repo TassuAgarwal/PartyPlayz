@@ -12,7 +12,7 @@
     <meta name="HandheldFriendly" content="true">
     <link rel="stylesheet" href="css/master.css">
     <link href="css/switcher.css" rel="stylesheet" id="switcher-css">
-    <link rel="icon" type="image/x-icon" href="images/favicon.jpg">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 </head>
 
 <body>
@@ -49,6 +49,7 @@
                         </div>
                     </div>
                 </div>
+
 
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12">

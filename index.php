@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="css/master.css">
   <link href="css/switcher.css" rel="stylesheet" id="switcher-css">
   <link rel="icon" type="image/x-icon" href="images/favicon.jpg">
+  <link rel="icon" type="image/x-icon" href="images/favicon.jpg">
 </head>
 
 <body>
@@ -33,8 +34,8 @@
                 </div>
                 <h2 data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="800" data-show-delay="400" data-hide-delay="400" class="main-slider__title sp-layer">Best Party Organizers in NOIDA</h2>
                 <div data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="1200" data-show-delay="2000" data-hide-delay="400" class="sp-layer">
-                  <a href="https://wa.me/9899123506" target="_blank" class="main-slider__btn btn btn-primary">ask for a quote</a>
-                  <a href="service.php" class="main-slider__btn btn btn-default">read more</a>
+                  <a href="https://wa.me/9899123506" class="main-slider__btn btn btn-primary">ask for a quote</a>
+                  <a href="services.php" class="main-slider__btn btn btn-default">read more</a>
                 </div>
               </div>
             </div>
@@ -50,8 +51,8 @@
                 </div>
                 <h2 data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="800" data-show-delay="400" data-hide-delay="400" class="main-slider__title sp-layer">celebrate your events<br>that lasts longer</h2>
                 <div data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="1200" data-show-delay="2000" data-hide-delay="400" class="sp-layer">
-                  <a href="https://wa.me/9899123506" target="_blank" class="main-slider__btn btn btn-primary">ask for a quote</a>
-                  <a href="service.php" class="main-slider__btn btn btn-default">read more</a>
+                  <a href="https://wa.me/9899123506" class="main-slider__btn btn btn-primary">ask for a quote</a>
+                  <a href="services.php" class="main-slider__btn btn btn-default">read more</a>
                 </div>
               </div>
             </div>
@@ -67,8 +68,8 @@
                 </div>
                 <h2 data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="800" data-show-delay="400" data-hide-delay="400" class="main-slider__title sp-layer">From Balloons to Beats<br>We plan it All !</h2>
                 <div data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="1200" data-show-delay="2000" data-hide-delay="400" class="sp-layer">
-                  <a href="https://wa.me/9899123506" target="_blank" class="main-slider__btn btn btn-primary">ask for a quote</a>
-                  <a href="service.php" class="main-slider__btn btn btn-default">read more</a>
+                  <a href="https://wa.me/9899123506" class="main-slider__btn btn btn-primary">ask for a quote</a>
+                  <a href="services.php" class="main-slider__btn btn btn-default">read more</a>
                 </div>
               </div>
             </div>
@@ -343,7 +344,6 @@
             </div>
           </div>
         </div>
-        <div class="text-center" style="margin-top: 30px;"><a href="funAct.php" class="b-isotope__btn btn btn-primary">View All Activities</a></div>
       </div>
     </section>
 
@@ -404,7 +404,7 @@
             </div>
           </div>
         </div>
-        <div class="text-center" style="margin-top: 30px;"><a href="theme.php" class="b-isotope__btn btn btn-primary">Read More</a></div>
+
       </div>
     </section>
 
