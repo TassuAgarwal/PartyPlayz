@@ -1,35 +1,35 @@
 <div data-off-canvas="mobile-slidebar left overlay">
+    <img src="images/newlog.png" alt="" height="90">
     <ul class="nav navbar-nav">
-        <li><a href="home.html">Home</a></li>
-        <li><a href="services.html">Services</a></li>
-        <li><a href="home.html">Works</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="blog-main.html">News</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="about.php">About</a></li>
+        <li><a href="service.php">Services</a></li>
+        <li><a href="funAct.php">Fun Activities</a></li>
+        <li><a href="theme.php">Themes</a></li>
+        <li><a href="gallery.php">Gallery</a></li>
+        <li><a href="contact.php">Contact</a></li>
     </ul>
 </div>
 
 <header class="header header-boxed-width header-background-trans header-logo-black header-topbarbox-1-left   
 header-topbarbox-2-right header-navibox-1-left header-navibox-2-right header-navibox-3-right header-navibox-4-right" style="background-color: black;">
     <div class="top-bar">
-        <div class="container container-boxed-width">
-            <div class="container">
-                <div class="header-topbarbox-1">
-                    <ul class="top-bar-contact">
-                        <li class="top-bar-contact__item"><i class="icon icon-call-in"></i> +91 9899123506</li>
-                        <li class="top-bar-contact__item"><i class="icon icon-envelope-open"></i> PartyPlayz@gmail.com</li>
-                        <li class="top-bar-contact__item"><i class="icon icon-map"></i> 123, Noida - 110034</li>
-                    </ul>
-                </div>
-                <div class="header-topbarbox-2">
-                    <ul class="social-net list-inline">
-                        <li class="social-net__item"><a href="facebook.com" class="social-net__link text-primary_h"><i class="icon fa fa-facebook"></i></a></li>
-                        <li class="social-net__item"><a href="linkedin.com" class="social-net__link text-primary_h"><i class="icon fa fa-instagram"></i></a></li>
-                        <li class="social-net__item"><a href="plus.google.com" class="social-net__link text-primary_h"><i class="icon fa fa-google-plus"></i></a></li>
-                        <li class="social-net__item"><a href="twitter.com" class="social-net__link text-primary_h"><i class="icon fa fa-whatsapp"></i></a></li>
-                    </ul>
-                </div>
+        <div class="container container-boxed-width"> 
+            <div class="header-topbarbox-1">
+                <ul class="top-bar-contact">
+                    <li class="top-bar-contact__item"><i class="icon icon-call-in"></i> +91 9899123506</li>
+                    <li class="top-bar-contact__item"><i class="icon icon-envelope-open"></i> PartyPlayz@gmail.com</li>
+                    <li class="top-bar-contact__item" id="loc"><i class="icon icon-map"></i> 123, Noida - 110034</li>
+                </ul>
             </div>
+            <div class="header-topbarbox-2">
+                <ul class="social-net list-inline">
+                    <li class="social-net__item"><a href="facebook.com" class="social-net__link text-primary_h"><i class="icon fa fa-facebook"></i></a></li>
+                    <li class="social-net__item"><a href="linkedin.com" class="social-net__link text-primary_h"><i class="icon fa fa-instagram"></i></a></li>
+                    <li class="social-net__item"><a href="plus.google.com" class="social-net__link text-primary_h"><i class="icon fa fa-google-plus"></i></a></li>
+                    <li class="social-net__item"><a href="twitter.com" class="social-net__link text-primary_h"><i class="icon fa fa-whatsapp"></i></a></li>
+                </ul>
+            </div> 
         </div>
     </div>
     <div class="container container-boxed-width">
@@ -37,9 +37,10 @@ header-topbarbox-2-right header-navibox-1-left header-navibox-2-right header-nav
             <div class="container">
                 <div class="header-navibox-1">
                     <button class="menu-mobile-button visible-xs-block js-toggle-mobile-slidebar toggle-menu-button"><i class="toggle-menu-button-icon"><span></span><span></span><span></span><span></span><span></span><span></span></i></button>
-                    <a href="home.html" class="scroll">
+                    <a href="index.php" class="scroll">
                         <img src="images/newlog.png" alt="logo" class="normal-logo">
-                        <img src="images/newlog.png" alt="logo" class="scroll-logo hidden-xs" style="height: 7vw; padding : 10px ;">
+                        <img src="images/newlog.png" alt="logo" class="scroll-logo hidden-xs newlogo">
+
                     </a>
                 </div>
                 <div class="header-navibox-2">
@@ -53,7 +54,6 @@ header-topbarbox-2-right header-navibox-1-left header-navibox-2-right header-nav
                                 <li><a href="birthdayParty.php">Birthday Party Packages</a></li>
                                 <li><a href="Entertainment.php">Entertainment Services</a></li>
                                 <li><a href="Decor.php">Decor & Setup</a></li>
-                                <li><a href="#"></a></li>
                                 <li><a href="Hosting.php">Music & Hosting</a></li>
                                 <li><a href="Catering.php">Catering & Snacks</a></li>
                             </ul>

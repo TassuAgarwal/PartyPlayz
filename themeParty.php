@@ -12,7 +12,7 @@
     <meta name="HandheldFriendly" content="true">
     <link rel="stylesheet" href="css/master.css">
     <link href="css/switcher.css" rel="stylesheet" id="switcher-css">
-    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="images/favicon.jpg">
 </head>
 
 <body>
@@ -29,7 +29,7 @@
                             <div class="ui-decor-2 ui-decor-2_vert bg-primary"></div>
                             <h1 class="b-title-page__title">Theme Party Decorations</h1>
                             <ol class="breadcrumb">
-                                <li><a href="home.php">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="service.php">Services</a></li>
                                 <li class="active">Theme Party Planning</li>
                             </ol>
