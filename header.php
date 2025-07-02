@@ -59,39 +59,39 @@ header-topbarbox-2-right header-navibox-1-left header-navibox-2-right header-nav
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" data-toggle="dropdown" class="dropdown-toggle">Fun Activities<b class="caret"></b></a>
+                            <a href="funAct.php" data-toggle="dropdown" class="dropdown-toggle">Fun Activities<b class="caret"></b></a>
                             <ul class="dropdown-menu" style="width: 25vw;">
                                 <li>
                                     <div class="yamm-content">
                                         <ul class="col-lg-6 col-md-3">
-                                            <li><a href="#"> Magic Show</a></li>
-                                            <li><a href="#">Tattoo artist</a></li>
-                                            <li><a href="#">Game coordinator</a></li>
-                                            <li><a href="#">Puppet show</a></li>
-                                            <li><a href="#">Face painting</a></li>
-                                            <li><a href="#">Charli n joker each</a></li>
-                                            <li><a href="#">Gun shooting</a></li>
-                                            <li><a href="#">Nail art</a></li>
-                                            <li><a href="#">Stone art</a></li>
-                                            <li><a href="#">Hear Biding</a></li>
-                                            <li><a href="#">Live character</a></li>
-                                            <li><a href="#">Mini music system</a></li>
-                                            <li><a href="#">Skech artist</a></li>
+                                            <li><a href="funAct.php"> Magic Show</a></li>
+                                            <li><a href="funAct.php">Tattoo artist</a></li>
+                                            <li><a href="funAct.php">Game coordinator</a></li>
+                                            <li><a href="funAct.php">Puppet show</a></li>
+                                            <li><a href="funAct.php">Face painting</a></li>
+                                            <li><a href="funAct.php">Charli n joker each</a></li>
+                                            <li><a href="funAct.php">Gun shooting</a></li>
+                                            <li><a href="funAct.php">Nail art</a></li>
+                                            <li><a href="funAct.php">Stone art</a></li>
+                                            <li><a href="funAct.php">Hear Biding</a></li>
+                                            <li><a href="funAct.php">Live character</a></li>
+                                            <li><a href="funAct.php">Mini music system</a></li>
+                                            <li><a href="funAct.php">Skech artist</a></li>
                                         </ul>
                                         <ul class="col-lg-6 col-md-3">
-                                            <li><a href="#">Bubble</a></li>
-                                            <li><a href="#">Popcorn machine</a></li>
-                                            <li><a href="#">Slim making</a></li>
-                                            <li><a href="#">Candy machine</a></li>
-                                            <li><a href="#">Pottry making</a></li>
-                                            <li><a href="#">Chocolate Fountain</a></li>
-                                            <li><a href="#">Juggling</a></li>
-                                            <li><a href="#">Art n craft</a></li>
-                                            <li><a href="#">Name Biding</a></li>
-                                            <li><a href="#">Train</a></li>
-                                            <li><a href="#">Bouncy</a></li>
-                                            <li><a href="#">Balloon art</a></li>
-                                            <li><a href="#">Play ground area</a></li>
+                                            <li><a href="funAct.php">Bubble</a></li>
+                                            <li><a href="funAct.php">Popcorn machine</a></li>
+                                            <li><a href="funAct.php">Slim making</a></li>
+                                            <li><a href="funAct.php">Candy machine</a></li>
+                                            <li><a href="funAct.php">Pottry making</a></li>
+                                            <li><a href="funAct.php">Chocolate Fountain</a></li>
+                                            <li><a href="funAct.php">Juggling</a></li>
+                                            <li><a href="funAct.php">Art n craft</a></li>
+                                            <li><a href="funAct.php">Name Biding</a></li>
+                                            <li><a href="funAct.php">Train</a></li>
+                                            <li><a href="funAct.php">Bouncy</a></li>
+                                            <li><a href="funAct.php">Balloon art</a></li>
+                                            <li><a href="funAct.php">Play ground area</a></li>
                                         </ul>
                                     </div>
                                 </li>

@@ -422,6 +422,9 @@
         <ul class="b-isotope-grid grid list-unstyled js-zoom-gallery pt-4 mt-4">
           <li class="grid-sizer"></li>
           <li class="b-isotope-grid__item grid-item corporate product">
+            <img src="images/gallery/21.jpeg" alt="foto">
+          </li>
+          <li class="b-isotope-grid__item grid-item corporate product">
             <img src="images/gallery/22.jpeg" alt="foto">
           </li>
           <li class="b-isotope-grid__item grid-item corporate product">
@@ -441,9 +444,6 @@
           </li>
           <li class="b-isotope-grid__item grid-item corporate product">
             <img src="images/gallery/28.jpeg" alt="foto">
-          </li>
-          <li class="b-isotope-grid__item grid-item corporate product">
-            <img src="images/gallery/29.jpeg" alt="foto">
           </li>
         </ul>
       </div>
